@@ -1,0 +1,7 @@
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+body {
+    background-color: rgb(212, 219, 219);
+}
